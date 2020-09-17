@@ -1,6 +1,6 @@
 ---
 layout: page
-title: First Plant
+title: 我的植物
 ---
 
 {% for first_plant in site.first_plant %}
