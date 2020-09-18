@@ -9,7 +9,7 @@ show_excerpts: true
 天对地，雨对风，大陆对长空。山花对海树，赤日对苍穹。
 
 <audio controls="controls" autoplay="autoplay">
-  <source src="/assets/dui_zhang_ge.m4a" type="audio/m4a" />
+  <source src="/assets/dui_zhang_ge.mp3" type="audio/mp3" />
 Your browser does not support this audio format.
 </audio>
 
