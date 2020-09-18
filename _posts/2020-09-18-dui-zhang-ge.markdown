@@ -6,7 +6,7 @@ categories: 语文
 show_excerpts: true
 ---
 
-天对地，雨对风，大陆对长空。山花对海树，赤日对苍穹。
+云对雨，雪对风，花对树，鸟对虫。清山对水秀，柳绿对桃红。
 
 <audio controls="controls" autoplay="autoplay">
   <source src="/assets/dui_zhang_ge.mp3" type="audio/mp3" />
