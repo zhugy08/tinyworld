@@ -40,7 +40,6 @@ minima:
 collections:
   first_plant:
     output: true
-    sort_by: day
 
 show_excerpts: true
 
