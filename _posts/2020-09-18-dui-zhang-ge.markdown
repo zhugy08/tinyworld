@@ -2,7 +2,7 @@
 layout: post
 title: 对仗歌
 date: 2020-09-18 08:00 +0800
-categories: 语文
+categories: learn
 show_excerpts: true
 ---
 
@@ -13,3 +13,4 @@ show_excerpts: true
 Your browser does not support this audio format.
 </audio>
 
+----

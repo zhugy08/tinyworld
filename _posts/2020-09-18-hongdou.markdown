@@ -1,9 +1,15 @@
 ---
-layout: page
-title: 我的植物
+layout: post
+title: 种红豆
+date: 2020-09-18 08:00 +0800
+categories: plant
+show_excerpts: true
 ---
+
 
 {% for first_plant in site.first_plant %}
   <h2>第{{ first_plant.day }}天</h2>
   <p>{{ first_plant.content | markdownify }}</p>
 {% endfor %}
+
+
