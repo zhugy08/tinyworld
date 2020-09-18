@@ -6,6 +6,7 @@ categories: plant
 show_excerpts: true
 ---
 
+今天老师让我们种一种植物，我不知道种什么好。爸爸在网上查了一下说，我们种绿豆吧。于是我们就到厨房里找，没找到绿豆，只发现了一包黄豆和一包红豆，所以只好种这两种试试看了。
 
 {% for first_plant in site.first_plant %}
   <h2>第{{ first_plant.day }}天</h2>
