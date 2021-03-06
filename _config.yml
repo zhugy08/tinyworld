@@ -40,6 +40,8 @@ minima:
 collections:
   first_plant:
     output: true
+  second_plant:
+    output: true
 
 show_excerpts: true
 
