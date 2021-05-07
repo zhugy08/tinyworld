@@ -7,3 +7,5 @@ show_excerpts: true
 ---
 
 我约定好了，要和爸爸一直做朋友，明天拍个照片为证。
+
+![together](/images/together.jpg)
